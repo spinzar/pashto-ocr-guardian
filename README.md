@@ -1,5 +1,5 @@
 # Pashto OCR Guardian
-![Pashto OCR Guardian](/asset/pashto_ocr_guardian/complete.png)
+![Pashto OCR Guardian](/asset/complete.png)
 **Family-aware Orthographic Repair Engine for Pashto**  
 *د پښتو متنونو د OCR ستونزو پاکولو او د لغت کورنۍ ساتلو انجن*
 
@@ -120,7 +120,8 @@ If you use Pashto OCR Guardian in research or production, please cite:
   title = {Pashto OCR Guardian: Family-aware Orthographic Repair Engine for Pashto},
   year = {2025},
   url = {https://github.com/spinzar/pashto-ocr-guardian},
-  version = {1.0.1}
+  version = {1.0.0}
+
 }
 ```
 
